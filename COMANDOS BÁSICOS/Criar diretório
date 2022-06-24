@@ -1,0 +1,12 @@
+//PARA CRIAR PASTA
+cargo new NOME DA PASTA --bin
+
+//PARA INICIALIZAR PASTA
+cargo init NOME DA PASTA
+
+//Printando
+println!("asasasasas");
+
+//Definindo Variável
+let x: i8/i32/i64 ► Interger(i)
+let mut x: u8/u32/u64 ► Unsignet(u) / mutable(mut)
